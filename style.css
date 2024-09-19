@@ -31,5 +31,6 @@ main {
 }
 
 img {
-    max-width: 40%;
+    max-width: 50%;
+    size: 50%;
 }
